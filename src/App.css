@@ -1,0 +1,30 @@
+.content{
+    color: pink;
+}
+.btn{
+    color: white;
+    background-color: aqua;
+}
+textarea{
+    height:100px;
+    width:500px;
+
+}
+.content{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    margin-left: 50vh;
+    margin-top: 10px;
+}
+.textar{
+    background-color: greenyellow;
+}
+h2{
+    margin-left: 50vh;
+    margin-top: 10px;
+}
+.dm{
+    margin-left: 50vh;
+}
